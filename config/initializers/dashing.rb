@@ -1,5 +1,6 @@
 # Use this hook to configure Dashing bahaviors.
 Dashing.configure do |config|
+
   # Scheduler instance.
   # config.scheduler = ::Rufus::Scheduler.new
 
